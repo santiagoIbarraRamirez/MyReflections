@@ -3,3 +3,13 @@ Qué sucede cuando inicializas un repositorio?
 
 ¿Por qué necesitas hacerlo? 
 	para indicarle a git que la carpeta en la que estas posisionado es un proyecto de git.
+
+¿En qué se diferencia el área de ensayo del directorio de trabajo y del repositorio? 
+
+	el area de ensayo en donde preparas o seleccionas los archivos para hacerles un commit.
+	el area de trabajo es el directorio donde tienes todos tus archivos.
+	el repositorio es donde alojas los cambios de los archivos en la nube.
+
+
+¿Qué valor crees que ofrece?
+	mucho valor ya que vas separando en capas la subida de cambios al repositorio.

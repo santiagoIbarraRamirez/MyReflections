@@ -1,0 +1,29 @@
+¿De qué manera ver una diferencia entre dos versiones de un archivo te ayuda a ver el error que se introdujo?
+
+mostrandote los cambios que sufrio el archivo ya que comprara a nivel de lineas y de esta manera es facil identificar el error.
+
+¿Cómo podría tener un acceso fácil a todo el historial de un archivo que lo haga un programador más eficiente a largo plazo?
+
+utilizando herramientas de versionado de codigo.
+
+¿Cuáles cree que son los pros y los contras de elegir manualmente cuándo crear una confirmación, como lo hace en Git, frente a tener las versiones guardadas automáticamente, como lo hace Google Docs?
+
+Pros:
+	que solo subes versiones funcionales.
+
+Contras:
+	Que es suceptible a cometer errores por que todo es manual.
+	
+
+
+
+
+¿Cómo se pueden usar los comandos git log y git diff para ver el historial de archivos?
+
+¿De qué manera el uso del control de versiones te hace más seguro para realizar cambios que podrían romper algo?
+	En que puedes regresar tu proyeto a un estado anterios cuando aun funcionaba bien.
+	
+Ahora que tiene configurado su espacio de trabajo, ¿qué quiere probar con Git?
+
+
+

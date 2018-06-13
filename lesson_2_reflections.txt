@@ -1,0 +1,5 @@
+Qué sucede cuando inicializas un repositorio? 
+	Creas el repositorio 
+
+¿Por qué necesitas hacerlo? 
+	para indicarle a git que la carpeta en la que estas posisionado es un proyecto de git.

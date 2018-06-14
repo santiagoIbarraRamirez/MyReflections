@@ -16,3 +16,11 @@ Qué sucede cuando inicializas un repositorio?
 
 ¿Cómo puede usar el área de preparación para asegurarse de tener un compromiso por cambio lógico?
 	agregando solo un archivo add, por cada cambio en cada archivo.
+
+¿Cuáles son algunas situaciones en las que las ramas serían útiles para mantener organizada tu historia? 
+	cuando realices cambios experimentales a tu aplicacion, o actualizaciones con cambios considerables en el proyecto que afecten reglas de negocio.
+
+
+¿Cómo ayudarían las ramas?
+
+	separa cambios y mantener una version estable del proyecto.

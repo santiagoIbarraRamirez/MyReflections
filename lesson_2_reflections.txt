@@ -13,3 +13,6 @@ Qué sucede cuando inicializas un repositorio?
 
 ¿Qué valor crees que ofrece?
 	mucho valor ya que vas separando en capas la subida de cambios al repositorio.
+
+¿Cómo puede usar el área de preparación para asegurarse de tener un compromiso por cambio lógico?
+	agregando solo un archivo add, por cada cambio en cada archivo.

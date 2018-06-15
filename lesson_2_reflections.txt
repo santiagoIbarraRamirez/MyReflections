@@ -27,4 +27,11 @@ Qué sucede cuando inicializas un repositorio?
 
 ¿Cómo te ayudan los diagramas a visualizar la estructura de la rama?
 	
-	a te ner mejor visibilidad en el comportamiento de las ramos hacia los comits.
+	tener mejor visibilidad en el comportamiento de las ramos hacia los comits.
+
+¿Cuál es el resultado de fusionar dos ramas juntas? 
+	convinar ambos resultados, o mejor dicho ambas hitorias para crear un solo archivo.
+
+¿Por qué lo representamos en el diagrama de la manera en que lo hacemos?
+	para indicar que comits de cada branch se tomar para generar el merge.
+	

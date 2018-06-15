@@ -24,3 +24,7 @@ Qué sucede cuando inicializas un repositorio?
 ¿Cómo ayudarían las ramas?
 
 	separa cambios y mantener una version estable del proyecto.
+
+¿Cómo te ayudan los diagramas a visualizar la estructura de la rama?
+	
+	a te ner mejor visibilidad en el comportamiento de las ramos hacia los comits.

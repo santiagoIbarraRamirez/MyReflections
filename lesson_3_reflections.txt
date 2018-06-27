@@ -1,2 +1,12 @@
 ¿Cuándo le gustaría usar un repositorio remoto en lugar de mantener todo su trabajo local?
   cuando necesite realizar un respaldo seguro de mi informacion.
+
+¿Por qué querrías siempre hacer cambios manualmente en lugar de tener a Git actualizado automáticamente con tu repositorio remoto?
+
+	para llevar cambios completos y tu elegir cuando realizar tu comit con cambios logicos.
+
+Describe las diferencias entre FORK, clones y ramas. ¿Cuándo usarías uno en lugar de otro?
+
+Fork: cuando quiera copiar un proyecto o repositorio en gituhb a otro repositorio en github
+Clone: Cuando tenga que trabajar sobre un repositorio y llevarlo a mi maquina local.
+Branch: Cuando tengo que agregar una nueva funcionalidad al proyecto.

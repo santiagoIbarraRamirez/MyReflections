@@ -10,3 +10,8 @@ Describe las diferencias entre FORK, clones y ramas. ¿Cuándo usarías uno en l
 Fork: cuando quiera copiar un proyecto o repositorio en gituhb a otro repositorio en github
 Clone: Cuando tenga que trabajar sobre un repositorio y llevarlo a mi maquina local.
 Branch: Cuando tengo que agregar una nueva funcionalidad al proyecto.
+
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto almacenado localmente?
+
+	que puedes seguir trabajando con tus cambios y estas seguro que no perjudicaras los cambios de los demas que esten trabajando sobre un mismo modulo.
+	
